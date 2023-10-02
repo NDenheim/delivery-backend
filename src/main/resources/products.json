@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "product_name": "Hamburger",
+    "category": "burger",
+    "price": 2.49,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/fe9f2cc38fc372d47c909b4aedc3429e8bfbc89b-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 2,
+    "product_name": "Cheeseburger",
+    "category": "burger",
+    "price": 2.99,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/bf948b58624789345cb6910d33fa23eecd269465-870x570.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 3,
+    "product_name": "Veggie Burger",
+    "category": "burger",
+    "price": 2.99,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/ce2e2058f2d9f243670a71f5d99cb77ef3f41c39-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 4,
+    "product_name": "Chicken Burger",
+    "category": "burger",
+    "price": 3.99,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/153fc900020b5113656319f04c9a950bcc2f0bc6-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 5,
+    "product_name": "Small Fries",
+    "category": "sides",
+    "price": 0.99,
+    "img_ur": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/15e5c87dfb045fffe4fc116a8680e2a01c22e3cd-870x570.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 6,
+    "product_name": "Medium Fries",
+    "category": "sides",
+    "price": 1.49,
+    "img_ur": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/15e5c87dfb045fffe4fc116a8680e2a01c22e3cd-870x570.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 7,
+    "product_name": "Large Fries",
+    "category": "sides",
+    "price": 1.99,
+    "img_ur": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/15e5c87dfb045fffe4fc116a8680e2a01c22e3cd-870x570.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 8,
+    "product_name": "Onion Rings",
+    "category": "sides",
+    "price": 2.99,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/1d5041d17bc3cadda2d285e06bbb031ec02ad6d0-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 9,
+    "product_name": "Chicken Nuggets",
+    "category": "sides",
+    "price": 3.99,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/7bcfcb303b8e921a467231b23a57cc33db297680-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 10,
+    "product_name": "Coke",
+    "category": "drinks",
+    "price": 1.49,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/45d39fc97e4d1b890d815e93ba97c557d783945c-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 11,
+    "product_name": "Coke Zero",
+    "category": "drinks",
+    "price": 1.49,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/a680042b657f6f06d8fcf1f23540a82e0bf022cf-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 12,
+    "product_name": "Fanta",
+    "category": "drinks",
+    "price": 1.49,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/403f2f50e011e7d4b3ed5be0cb2ab4b53772fcef-590x393.png?w=750&q=40&fit=max&auto=format"
+  },
+  {
+    "id": 13,
+    "product_name": "Water",
+    "category": "drinks",
+    "price": 0.99,
+    "image_url": "https://cdn.sanity.io/images/czqk28jt/prod_bk_gb/68989772d5fdf92261af29207789574d0bf97949-870x570.png?rect=0,33,870,537&w=750&q=40&fit=max&auto=format"
+  }
+]
